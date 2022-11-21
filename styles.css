@@ -162,7 +162,7 @@ body {
         width: 100%;
         margin-left: 4px;
         margin-top: 25px;
-        margin-bottom: 30px;
+        margin-bottom: 50px;
     }
 
     .heading-container {
@@ -174,8 +174,13 @@ body {
         font-size: 35px;
         margin: auto;
         line-height: 34px;
+        margin-bottom: 10px;
     }
-
+    .heading-container p{
+        max-width: 80%;
+        margin: auto;
+        line-height: 20px;
+    }
     .review-container {
         padding: 20px 0px;
         margin: 0;
@@ -215,7 +220,7 @@ body {
     }
 
     .box {
-        width: 240px;
+        width: 255px;
         height: auto;
         padding: 15px 20px;
         margin-right: 0;
